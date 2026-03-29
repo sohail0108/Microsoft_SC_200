@@ -22,3 +22,18 @@ The course focuses on building a foundational understanding of security operatio
 - Microsoft Co-Pilot for Security
 - Microsoft Defender for Cloud
 - Microsoft Sentinel
+
+---
+
+## Why Get Microsoft Certified?
+Microsoft certifications validate your skills and expertise in various Microsoft technologies, helping you stand out in today's competitive job market. Whether you are looking to advance in your current role or explore new opportunities, certification is a key step towards professional growth.
+
+## Skills measured
+
+Manage a security operations environment
+
+Configure protections and detections
+
+Manage incident response
+
+Manage security threats
