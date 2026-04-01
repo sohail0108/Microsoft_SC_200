@@ -2,11 +2,14 @@
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/934740df-86c0-45b0-b6f7-3f49a2f912e2" />
 
+<img width="795" height="330" alt="image" src="https://github.com/user-attachments/assets/16b7f1c0-9d39-4390-8cf3-1774c6edc28e" />
+
+
 #
 
 ## Explore Extended Detection & Response (XDR) response use cases
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bcff54b0-b8b9-4161-9ce7-bd26afa53ca8" />
+<img width="1400" height="720" alt="image" src="https://github.com/user-attachments/assets/bcff54b0-b8b9-4161-9ce7-bd26afa53ca8" />
 
 #
 
