@@ -1,3 +1,30 @@
+# Introduction 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/934740df-86c0-45b0-b6f7-3f49a2f912e2" />
+
+#
+
+## Explore Extended Detection & Response (XDR) response use cases
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bcff54b0-b8b9-4161-9ce7-bd26afa53ca8" />
+
+#
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/64d16ff7-0a11-421d-813e-f7c071993103" />
+
+
+#
+
+## Understand Microsoft Defender XDR in a Security Operations Center (SOC)
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/16efb78e-f31a-45f5-849e-1e0052e23a21" />
+
+#
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/467a31c6-25e1-4582-8a0d-f7207c0619ec" />
+
+#
+
 # 🧠 Microsoft Graph 
 
 ---
